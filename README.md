@@ -1,6 +1,4 @@
 # javalin_poc
-### david holiday 
-### davidholiday@hush.com
 ---
 
 
