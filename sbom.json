@@ -1,0 +1,3345 @@
+{
+ "artifacts": [
+  {
+   "id": "3981f107a628b196",
+   "name": "HdrHistogram",
+   "version": "2.1.12",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:HdrHistogram:HdrHistogram:2.1.12:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hdrhistogram:HdrHistogram:2.1.12:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.hdrhistogram/HdrHistogram@2.1.12",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:HdrHistogram",
+    "pomProperties": {
+     "path": "META-INF/maven/org.hdrhistogram/HdrHistogram/pom.properties",
+     "name": "",
+     "groupId": "org.hdrhistogram",
+     "artifactId": "HdrHistogram",
+     "version": "2.1.12"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/org.hdrhistogram/HdrHistogram/pom.xml",
+     "groupId": "org.hdrhistogram",
+     "artifactId": "HdrHistogram",
+     "version": "2.1.12",
+     "name": "HdrHistogram",
+     "description": "HdrHistogram supports the recording and analyzing sampled data value counts across a configurable integer value range with configurable value precision within the range. Value precision is expressed as the number of significant digits in the value recording, and provides control over value quantization behavior across the value range and the subsequent value resolution at any given level.",
+     "url": "http://hdrhistogram.github.io/HdrHistogram/"
+    }
+   }
+  },
+  {
+   "id": "79e488b739e91c53",
+   "name": "LatencyUtils",
+   "version": "2.0.3",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:LatencyUtils:LatencyUtils:2.0.3:*:*:*:*:*:*:*",
+    "cpe:2.3:a:latencyutils:LatencyUtils:2.0.3:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sonatype:LatencyUtils:2.0.3:*:*:*:*:*:*:*",
+    "cpe:2.3:a:oss:LatencyUtils:2.0.3:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.latencyutils/LatencyUtils@2.0.3",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:LatencyUtils",
+    "pomProperties": {
+     "path": "META-INF/maven/org.latencyutils/LatencyUtils/pom.properties",
+     "name": "",
+     "groupId": "org.latencyutils",
+     "artifactId": "LatencyUtils",
+     "version": "2.0.3"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/org.latencyutils/LatencyUtils/pom.xml",
+     "parent": {
+      "groupId": "org.sonatype.oss",
+      "artifactId": "oss-parent",
+      "version": "7"
+     },
+     "groupId": "org.latencyutils",
+     "artifactId": "LatencyUtils",
+     "version": "2.0.3",
+     "name": "LatencyUtils",
+     "description": "LatencyUtils is a package that provides latency recording and reporting utilities.",
+     "url": "http://latencyutils.github.io/LatencyUtils/"
+    }
+   }
+  },
+  {
+   "id": "a0539047555730d8",
+   "name": "annotations",
+   "version": "13.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:annotations:annotations:13.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetbrains:annotations:13.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.jetbrains/annotations@13.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:annotations",
+    "pomProperties": {
+     "path": "META-INF/maven/org.jetbrains/annotations/pom.properties",
+     "name": "",
+     "groupId": "org.jetbrains",
+     "artifactId": "annotations",
+     "version": "13.0"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/org.jetbrains/annotations/pom.xml",
+     "groupId": "org.jetbrains",
+     "artifactId": "annotations",
+     "version": "13.0",
+     "name": "IntelliJ IDEA Annotations",
+     "description": "A set of annotations used for code inspection support and code documentation.",
+     "url": "http://www.jetbrains.org"
+    }
+   }
+  },
+  {
+   "id": "f00e730a01d9845d",
+   "name": "antlr4-runtime",
+   "version": "4.10.1",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:antlr4-runtime:antlr4-runtime:4.10.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:antlr4-runtime:antlr4_runtime:4.10.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:antlr4_runtime:antlr4-runtime:4.10.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:antlr4_runtime:antlr4_runtime:4.10.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:antlr4:antlr4-runtime:4.10.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:antlr4:antlr4_runtime:4.10.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:antlr:antlr4-runtime:4.10.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:antlr:antlr4_runtime:4.10.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.antlr/antlr4-runtime@4.10.1",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:antlr4-runtime",
+    "pomProperties": {
+     "path": "META-INF/maven/org.antlr/antlr4-runtime/pom.properties",
+     "name": "",
+     "groupId": "org.antlr",
+     "artifactId": "antlr4-runtime",
+     "version": "4.10.1"
+    }
+   }
+  },
+  {
+   "id": "31d0fa5e53a47c15",
+   "name": "byte-buddy",
+   "version": "1.12.18",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:byte-buddy:byte-buddy:1.12.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte-buddy:byte_buddy:1.12.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte_buddy:byte-buddy:1.12.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte_buddy:byte_buddy:1.12.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:bytebuddy:byte-buddy:1.12.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:bytebuddy:byte_buddy:1.12.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte:byte-buddy:1.12.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte:byte_buddy:1.12.18:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/net.bytebuddy/byte-buddy@1.12.18",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:byte-buddy",
+    "pomProperties": {
+     "path": "META-INF/maven/net.bytebuddy/byte-buddy/pom.properties",
+     "name": "",
+     "groupId": "net.bytebuddy",
+     "artifactId": "byte-buddy",
+     "version": "1.12.18"
+    }
+   }
+  },
+  {
+   "id": "13fdf9fb0c31c8c6",
+   "name": "classmate",
+   "version": "1.5.1",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:classmate:classmate:1.5.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:classmate:1.5.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.fasterxml/classmate@1.5.1",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:classmate",
+    "pomProperties": {
+     "path": "META-INF/maven/com.fasterxml/classmate/pom.properties",
+     "name": "",
+     "groupId": "com.fasterxml",
+     "artifactId": "classmate",
+     "version": "1.5.1"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/com.fasterxml/classmate/pom.xml",
+     "parent": {
+      "groupId": "com.fasterxml",
+      "artifactId": "oss-parent",
+      "version": "35"
+     },
+     "groupId": "",
+     "artifactId": "classmate",
+     "version": "1.5.1",
+     "name": "ClassMate",
+     "description": "Library for introspecting types with full generic information including resolving of field and method types.",
+     "url": "https://github.com/FasterXML/java-classmate"
+    }
+   }
+  },
+  {
+   "id": "8fe43e1083896af1",
+   "name": "commons-beanutils",
+   "version": "1.9.4",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:commons-beanutils:commons-beanutils:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-beanutils:commons_beanutils:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_beanutils:commons-beanutils:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_beanutils:commons_beanutils:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-beanutils:commons:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons-beanutils:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons_beanutils:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_beanutils:commons:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons-beanutils:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons_beanutils:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons:1.9.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons:1.9.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/commons-beanutils/commons-beanutils@1.9.4",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:commons-beanutils",
+    "pomProperties": {
+     "path": "META-INF/maven/commons-beanutils/commons-beanutils/pom.properties",
+     "name": "",
+     "groupId": "commons-beanutils",
+     "artifactId": "commons-beanutils",
+     "version": "1.9.4"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/commons-beanutils/commons-beanutils/pom.xml",
+     "parent": {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-parent",
+      "version": "47"
+     },
+     "groupId": "commons-beanutils",
+     "artifactId": "commons-beanutils",
+     "version": "1.9.4",
+     "name": "Apache Commons BeanUtils",
+     "description": "Apache Commons BeanUtils provides an easy-to-use but flexible wrapper around reflection and introspection.",
+     "url": "https://commons.apache.org/proper/commons-beanutils/"
+    }
+   }
+  },
+  {
+   "id": "321b30350b055130",
+   "name": "commons-codec",
+   "version": "1.15",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:commons-codec:commons-codec:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-codec:commons_codec:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_codec:commons-codec:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_codec:commons_codec:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-codec:commons:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons-codec:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons_codec:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_codec:commons:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons-codec:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons_codec:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons:1.15:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons:1.15:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/commons-codec/commons-codec@1.15",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:commons-codec",
+    "pomProperties": {
+     "path": "META-INF/maven/commons-codec/commons-codec/pom.properties",
+     "name": "",
+     "groupId": "commons-codec",
+     "artifactId": "commons-codec",
+     "version": "1.15"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/commons-codec/commons-codec/pom.xml",
+     "parent": {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-parent",
+      "version": "52"
+     },
+     "groupId": "commons-codec",
+     "artifactId": "commons-codec",
+     "version": "1.15",
+     "name": "Apache Commons Codec",
+     "description": "The Apache Commons Codec package contains simple encoder and decoders for various formats such as Base64 and Hexadecimal.  In addition to these widely used encoders and decoders, the codec package also maintains a collection of phonetic encoding utilities.",
+     "url": "https://commons.apache.org/proper/commons-codec/"
+    }
+   }
+  },
+  {
+   "id": "6ded354ffbfb9a8d",
+   "name": "commons-collections",
+   "version": "3.2.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:commons-collections:commons-collections:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-collections:commons_collections:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_collections:commons-collections:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_collections:commons_collections:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-collections:commons:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons-collections:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons_collections:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_collections:commons:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons-collections:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons_collections:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons:3.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons:3.2.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/commons-collections/commons-collections@3.2.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:commons-collections",
+    "pomProperties": {
+     "path": "META-INF/maven/commons-collections/commons-collections/pom.properties",
+     "name": "",
+     "groupId": "commons-collections",
+     "artifactId": "commons-collections",
+     "version": "3.2.2"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/commons-collections/commons-collections/pom.xml",
+     "parent": {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-parent",
+      "version": "39"
+     },
+     "groupId": "commons-collections",
+     "artifactId": "commons-collections",
+     "version": "3.2.2",
+     "name": "Apache Commons Collections",
+     "description": "Types that extend and augment the Java Collections Framework.",
+     "url": "http://commons.apache.org/collections/"
+    }
+   }
+  },
+  {
+   "id": "7074c8810cf09d8e",
+   "name": "commons-digester",
+   "version": "2.1",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:commons-digester:commons-digester:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-digester:commons_digester:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_digester:commons-digester:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_digester:commons_digester:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-digester:commons:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons-digester:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons_digester:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_digester:commons:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons-digester:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons_digester:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons:2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons:2.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/commons-digester/commons-digester@2.1",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:commons-digester",
+    "pomProperties": {
+     "path": "META-INF/maven/commons-digester/commons-digester/pom.properties",
+     "name": "",
+     "groupId": "commons-digester",
+     "artifactId": "commons-digester",
+     "version": "2.1"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/commons-digester/commons-digester/pom.xml",
+     "parent": {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-parent",
+      "version": "17"
+     },
+     "groupId": "commons-digester",
+     "artifactId": "commons-digester",
+     "version": "2.1",
+     "name": "Commons Digester",
+     "description": "The Digester package lets you configure an XML to Java object mapping module which triggers certain actions called rules whenever a particular pattern of nested XML elements is recognized.",
+     "url": "http://commons.apache.org/digester/"
+    }
+   }
+  },
+  {
+   "id": "c349ff877a3cbc8d",
+   "name": "commons-lang3",
+   "version": "3.12.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:commons-lang3:commons-lang3:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-lang3:commons_lang3:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_lang3:commons-lang3:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_lang3:commons_lang3:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-lang3:commons:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons-lang3:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons_lang3:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_lang3:commons:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons-lang3:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons_lang3:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons:3.12.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons:3.12.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.apache.commons/commons-lang3@3.12.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:commons-lang3",
+    "pomProperties": {
+     "path": "META-INF/maven/org.apache.commons/commons-lang3/pom.properties",
+     "name": "",
+     "groupId": "org.apache.commons",
+     "artifactId": "commons-lang3",
+     "version": "3.12.0"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/org.apache.commons/commons-lang3/pom.xml",
+     "parent": {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-parent",
+      "version": "52"
+     },
+     "groupId": "",
+     "artifactId": "commons-lang3",
+     "version": "3.12.0",
+     "name": "Apache Commons Lang",
+     "description": "Apache Commons Lang, a package of Java utility classes for the classes that are in java.lang's hierarchy, or are considered to be so standard as to justify existence in java.lang.",
+     "url": "https://commons.apache.org/proper/commons-lang/"
+    }
+   }
+  },
+  {
+   "id": "c2b030b9659eff32",
+   "name": "commons-logging",
+   "version": "1.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:commons-logging:commons-logging:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-logging:commons_logging:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_logging:commons-logging:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_logging:commons_logging:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-logging:commons:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons-logging:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons_logging:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_logging:commons:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons-logging:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons_logging:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons:1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons:1.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/commons-logging/commons-logging@1.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:commons-logging",
+    "pomProperties": {
+     "path": "META-INF/maven/commons-logging/commons-logging/pom.properties",
+     "name": "",
+     "groupId": "commons-logging",
+     "artifactId": "commons-logging",
+     "version": "1.2"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/commons-logging/commons-logging/pom.xml",
+     "parent": {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-parent",
+      "version": "34"
+     },
+     "groupId": "commons-logging",
+     "artifactId": "commons-logging",
+     "version": "1.2",
+     "name": "Apache Commons Logging",
+     "description": "Apache Commons Logging is a thin adapter allowing configurable bridging to other, well known logging systems.",
+     "url": "http://commons.apache.org/proper/commons-logging/"
+    }
+   }
+  },
+  {
+   "id": "467b929bb7a9c155",
+   "name": "commons-text",
+   "version": "1.10.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:commons-text:commons-text:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-text:commons_text:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_text:commons-text:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_text:commons_text:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-text:commons:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons-text:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons_text:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_text:commons:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons-text:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons_text:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons:1.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons:1.10.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.apache.commons/commons-text@1.10.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:commons-text",
+    "pomProperties": {
+     "path": "META-INF/maven/org.apache.commons/commons-text/pom.properties",
+     "name": "",
+     "groupId": "org.apache.commons",
+     "artifactId": "commons-text",
+     "version": "1.10.0"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/org.apache.commons/commons-text/pom.xml",
+     "parent": {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-parent",
+      "version": "54"
+     },
+     "groupId": "",
+     "artifactId": "commons-text",
+     "version": "1.10.0",
+     "name": "Apache Commons Text",
+     "description": "Apache Commons Text is a library focused on algorithms working on strings.",
+     "url": "https://commons.apache.org/proper/commons-text"
+    }
+   }
+  },
+  {
+   "id": "39464a12991bd31",
+   "name": "commons-validator",
+   "version": "1.7",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:commons-validator:commons-validator:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-validator:commons_validator:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_validator:commons-validator:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_validator:commons_validator:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons-validator:commons:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons-validator:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons_validator:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons_validator:commons:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons-validator:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons_validator:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:commons:commons:1.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apache:commons:1.7:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/commons-validator/commons-validator@1.7",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:commons-validator",
+    "pomProperties": {
+     "path": "META-INF/maven/commons-validator/commons-validator/pom.properties",
+     "name": "",
+     "groupId": "commons-validator",
+     "artifactId": "commons-validator",
+     "version": "1.7"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/commons-validator/commons-validator/pom.xml",
+     "parent": {
+      "groupId": "org.apache.commons",
+      "artifactId": "commons-parent",
+      "version": "51"
+     },
+     "groupId": "commons-validator",
+     "artifactId": "commons-validator",
+     "version": "1.7",
+     "name": "Apache Commons Validator",
+     "description": "Apache Commons Validator provides the building blocks for both client side validation and server side data validation. It may be used standalone or with a framework like Struts.",
+     "url": "http://commons.apache.org/proper/commons-validator/"
+    }
+   }
+  },
+  {
+   "id": "7b3a3a06ead81cf0",
+   "name": "http2-common",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:http2-common:http2-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2-common:http2_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_common:http2-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_common:http2_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2-common:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_common:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.http2/http2-common@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:http2-common",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.http2/http2-common/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.http2",
+     "artifactId": "http2-common",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "6e3b1a311cf4c694",
+   "name": "http2-hpack",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:http2-hpack:http2-hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2-hpack:http2_hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_hpack:http2-hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_hpack:http2_hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2-hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2_hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2-hpack:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2-hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2_hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_hpack:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2-hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2_hpack:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.http2/http2-hpack@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:http2-hpack",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.http2/http2-hpack/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.http2",
+     "artifactId": "http2-hpack",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "3519d86fe9451121",
+   "name": "http2-server",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:http2-server:http2-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2-server:http2_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_server:http2-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_server:http2_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2-server:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2_server:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:http2:http2:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:http2:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.http2/http2-server@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:http2-server",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.http2/http2-server/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.http2",
+     "artifactId": "http2-server",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "741ded04692ae329",
+   "name": "istack-commons-runtime",
+   "version": "4.0.1",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:istack-commons-runtime:istack-commons-runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack-commons-runtime:istack_commons_runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack_commons_runtime:istack-commons-runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack_commons_runtime:istack_commons_runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack-commons:istack-commons-runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack-commons:istack_commons_runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack_commons:istack-commons-runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack_commons:istack_commons_runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack-commons-runtime:istack:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack:istack-commons-runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack:istack_commons_runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack_commons_runtime:istack:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sun:istack-commons-runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sun:istack_commons_runtime:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack-commons:istack:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack_commons:istack:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:istack:istack:4.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sun:istack:4.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.sun.istack/istack-commons-runtime@4.0.1",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:istack-commons-runtime",
+    "pomProperties": {
+     "path": "META-INF/maven/com.sun.istack/istack-commons-runtime/pom.properties",
+     "name": "",
+     "groupId": "com.sun.istack",
+     "artifactId": "istack-commons-runtime",
+     "version": "4.0.1"
+    }
+   }
+  },
+  {
+   "id": "2e0d4d80e460a031",
+   "name": "j2html",
+   "version": "1.6.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:sonatype:j2html:1.6.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:j2html:j2html:1.6.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:oss:j2html:1.6.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.j2html/j2html@1.6.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:j2html",
+    "pomProperties": {
+     "path": "META-INF/maven/com.j2html/j2html/pom.properties",
+     "name": "",
+     "groupId": "com.j2html",
+     "artifactId": "j2html",
+     "version": "1.6.0"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/com.j2html/j2html/pom.xml",
+     "parent": {
+      "groupId": "org.sonatype.oss",
+      "artifactId": "oss-parent",
+      "version": "7"
+     },
+     "groupId": "com.j2html",
+     "artifactId": "j2html",
+     "version": "1.6.0",
+     "name": "j2html",
+     "description": "Java to HTML builder with a fluent API",
+     "url": "http://j2html.com"
+    }
+   }
+  },
+  {
+   "id": "45123276f8f0db1e",
+   "name": "jackson-annotations",
+   "version": "2.14.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-annotations:jackson-annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-annotations:jackson_annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_annotations:jackson-annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_annotations:jackson_annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson-annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson_annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-annotations:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_annotations:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson-annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson_annotations:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson:2.14.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-annotations@2.14.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jackson-annotations",
+    "pomProperties": {
+     "path": "META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.properties",
+     "name": "",
+     "groupId": "com.fasterxml.jackson.core",
+     "artifactId": "jackson-annotations",
+     "version": "2.14.2"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.xml",
+     "parent": {
+      "groupId": "com.fasterxml.jackson",
+      "artifactId": "jackson-parent",
+      "version": "2.14"
+     },
+     "groupId": "com.fasterxml.jackson.core",
+     "artifactId": "jackson-annotations",
+     "version": "2.14.2",
+     "name": "Jackson-annotations",
+     "description": "Core annotations used for value types, used by Jackson data binding package.",
+     "url": "https://github.com/FasterXML/jackson"
+    }
+   }
+  },
+  {
+   "id": "f66715e98d08f717",
+   "name": "jackson-core",
+   "version": "2.14.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-core:jackson-core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-core:jackson_core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_core:jackson-core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_core:jackson_core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson-core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson_core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-core:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_core:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson-core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson_core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-core:core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_core:core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:core:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:core:2.14.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-core@2.14.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jackson-core",
+    "pomProperties": {
+     "path": "META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.properties",
+     "name": "",
+     "groupId": "com.fasterxml.jackson.core",
+     "artifactId": "jackson-core",
+     "version": "2.14.2"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.xml",
+     "parent": {
+      "groupId": "com.fasterxml.jackson",
+      "artifactId": "jackson-base",
+      "version": "2.14.2"
+     },
+     "groupId": "com.fasterxml.jackson.core",
+     "artifactId": "jackson-core",
+     "version": "2.14.2",
+     "name": "Jackson-core",
+     "description": "Core Jackson processing abstractions (aka Streaming API), implementation for JSON",
+     "url": "https://github.com/FasterXML/jackson-core"
+    }
+   }
+  },
+  {
+   "id": "d7110175d8002783",
+   "name": "jackson-databind",
+   "version": "2.14.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-databind:jackson-databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-databind:jackson_databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_databind:jackson-databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_databind:jackson_databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson-databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson_databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-databind:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_databind:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson-databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson_databind:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:core:jackson:2.14.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.fasterxml.jackson.core/jackson-databind@2.14.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jackson-databind",
+    "pomProperties": {
+     "path": "META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.properties",
+     "name": "",
+     "groupId": "com.fasterxml.jackson.core",
+     "artifactId": "jackson-databind",
+     "version": "2.14.2"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.xml",
+     "parent": {
+      "groupId": "com.fasterxml.jackson",
+      "artifactId": "jackson-base",
+      "version": "2.14.2"
+     },
+     "groupId": "com.fasterxml.jackson.core",
+     "artifactId": "jackson-databind",
+     "version": "2.14.2",
+     "name": "jackson-databind",
+     "description": "General data-binding functionality for Jackson: works on core streaming API",
+     "url": "https://github.com/FasterXML/jackson"
+    }
+   }
+  },
+  {
+   "id": "7d453f5bef40efd5",
+   "name": "jackson-datatype-jsr310",
+   "version": "2.14.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-datatype-jsr310:jackson-datatype-jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype-jsr310:jackson_datatype_jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype_jsr310:jackson-datatype-jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype_jsr310:jackson_datatype_jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype:jackson-datatype-jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype:jackson_datatype_jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype:jackson-datatype-jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype:jackson_datatype_jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson-datatype-jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson_datatype_jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:datatype:jackson-datatype-jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:datatype:jackson_datatype_jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype-jsr310:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-datatype-jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_datatype_jsr310:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype_jsr310:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:datatype:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson:2.14.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310@2.14.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jackson-datatype-jsr310",
+    "pomProperties": {
+     "path": "META-INF/maven/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/pom.properties",
+     "name": "",
+     "groupId": "com.fasterxml.jackson.datatype",
+     "artifactId": "jackson-datatype-jsr310",
+     "version": "2.14.2"
+    }
+   }
+  },
+  {
+   "id": "c70d4f93dd9f13c3",
+   "name": "jackson-module-kotlin",
+   "version": "2.14.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-module-kotlin:jackson-module-kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module-kotlin:jackson_module_kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module_kotlin:jackson-module-kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module_kotlin:jackson_module_kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module:jackson-module-kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module:jackson_module_kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module:jackson-module-kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module:jackson_module_kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson-module-kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson_module_kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module-kotlin:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-module-kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_module_kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module_kotlin:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:module:jackson-module-kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:module:jackson_module_kotlin:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:fasterxml:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson:2.14.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:module:jackson:2.14.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.fasterxml.jackson.module/jackson-module-kotlin@2.14.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jackson-module-kotlin",
+    "pomProperties": {
+     "path": "META-INF/maven/com.fasterxml.jackson.module/jackson-module-kotlin/pom.properties",
+     "name": "",
+     "groupId": "com.fasterxml.jackson.module",
+     "artifactId": "jackson-module-kotlin",
+     "version": "2.14.2"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/com.fasterxml.jackson.module/jackson-module-kotlin/pom.xml",
+     "parent": {
+      "groupId": "com.fasterxml.jackson",
+      "artifactId": "jackson-base",
+      "version": "2.14.2"
+     },
+     "groupId": "com.fasterxml.jackson.module",
+     "artifactId": "jackson-module-kotlin",
+     "version": "2.14.2",
+     "name": "jackson-module-kotlin",
+     "description": "Add-on module for Jackson (https://github.com/FasterXML/jackson/) to support Kotlin language, specifically introspection of method/constructor parameter names, without having to add explicit property name annotation.",
+     "url": "https://github.com/FasterXML/jackson-module-kotlin"
+    }
+   }
+  },
+  {
+   "id": "43c3d6e5c782e7d8",
+   "name": "jakarta.activation",
+   "version": "2.0.1",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.activation:jakarta.activation:2.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:activation:jakarta.activation:2.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.activation:activation:2.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sun:jakarta.activation:2.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:activation:activation:2.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sun:activation:2.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.sun.activation/jakarta.activation@2.0.1",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jakarta.activation",
+    "pomProperties": {
+     "path": "META-INF/maven/com.sun.activation/jakarta.activation/pom.properties",
+     "name": "",
+     "groupId": "com.sun.activation",
+     "artifactId": "jakarta.activation",
+     "version": "2.0.1"
+    }
+   }
+  },
+  {
+   "id": "87af8a28fbf66f6d",
+   "name": "jakarta.annotation-api",
+   "version": "2.1.1",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.annotation-api:jakarta.annotation-api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation-api:jakarta.annotation_api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation_api:jakarta.annotation-api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation_api:jakarta.annotation_api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation:jakarta.annotation-api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation:jakarta.annotation_api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jakarta.annotation-api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jakarta.annotation_api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ee4j:jakarta.annotation-api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ee4j:jakarta.annotation_api:2.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.ee4j/jakarta.annotation-api@2.1.1",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jakarta.annotation-api",
+    "pomProperties": {
+     "path": "META-INF/maven/jakarta.annotation/jakarta.annotation-api/pom.properties",
+     "name": "",
+     "groupId": "jakarta.annotation",
+     "artifactId": "jakarta.annotation-api",
+     "version": "2.1.1"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/jakarta.annotation/jakarta.annotation-api/pom.xml",
+     "parent": {
+      "groupId": "org.eclipse.ee4j",
+      "artifactId": "project",
+      "version": "1.0.7"
+     },
+     "groupId": "jakarta.annotation",
+     "artifactId": "jakarta.annotation-api",
+     "version": "2.1.1",
+     "name": "Jakarta Annotations API",
+     "description": "Jakarta Annotations API",
+     "url": "https://projects.eclipse.org/projects/ee4j.ca"
+    }
+   }
+  },
+  {
+   "id": "3dfc69f0306252a8",
+   "name": "jakarta.inject-api",
+   "version": "2.0.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.inject-api:jakarta.inject-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.inject-api:jakarta.inject_api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.inject_api:jakarta.inject-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.inject_api:jakarta.inject_api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.inject:jakarta.inject-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.inject:jakarta.inject_api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jakarta.inject-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jakarta.inject_api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ee4j:jakarta.inject-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ee4j:jakarta.inject_api:2.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.ee4j/jakarta.inject-api@2.0.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jakarta.inject-api",
+    "pomProperties": {
+     "path": "META-INF/maven/jakarta.inject/jakarta.inject-api/pom.properties",
+     "name": "",
+     "groupId": "jakarta.inject",
+     "artifactId": "jakarta.inject-api",
+     "version": "2.0.0"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/jakarta.inject/jakarta.inject-api/pom.xml",
+     "parent": {
+      "groupId": "org.eclipse.ee4j",
+      "artifactId": "project",
+      "version": "1.0.6"
+     },
+     "groupId": "jakarta.inject",
+     "artifactId": "jakarta.inject-api",
+     "version": "2.0.0",
+     "name": "Jakarta Dependency Injection",
+     "description": "Jakarta Dependency Injection",
+     "url": "https://github.com/eclipse-ee4j/injection-api"
+    }
+   }
+  },
+  {
+   "id": "d3da2cab6801352f",
+   "name": "jakarta.persistence-api",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.persistence-api:jakarta.persistence-api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.persistence-api:jakarta.persistence_api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.persistence_api:jakarta.persistence-api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.persistence_api:jakarta.persistence_api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.persistence:jakarta.persistence-api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.persistence:jakarta.persistence_api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jakarta.persistence-api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jakarta.persistence_api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ee4j:jakarta.persistence-api:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ee4j:jakarta.persistence_api:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.ee4j/jakarta.persistence-api@3.0.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jakarta.persistence-api",
+    "pomProperties": {
+     "path": "META-INF/maven/jakarta.persistence/jakarta.persistence-api/pom.properties",
+     "name": "",
+     "groupId": "jakarta.persistence",
+     "artifactId": "jakarta.persistence-api",
+     "version": "3.0.0"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/jakarta.persistence/jakarta.persistence-api/pom.xml",
+     "parent": {
+      "groupId": "org.eclipse.ee4j",
+      "artifactId": "project",
+      "version": "1.0.6"
+     },
+     "groupId": "jakarta.persistence",
+     "artifactId": "jakarta.persistence-api",
+     "version": "3.0.0",
+     "name": "Jakarta Persistence API",
+     "url": "https://github.com/eclipse-ee4j/jpa-api"
+    }
+   }
+  },
+  {
+   "id": "63b8c6566f53d450",
+   "name": "jakarta.transaction-api",
+   "version": "2.0.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.transaction-api:jakarta.transaction-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.transaction-api:jakarta.transaction_api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.transaction_api:jakarta.transaction-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.transaction_api:jakarta.transaction_api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.transaction:jakarta.transaction-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.transaction:jakarta.transaction_api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jakarta.transaction-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jakarta.transaction_api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ee4j:jakarta.transaction-api:2.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ee4j:jakarta.transaction_api:2.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.ee4j/jakarta.transaction-api@2.0.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jakarta.transaction-api",
+    "pomProperties": {
+     "path": "META-INF/maven/jakarta.transaction/jakarta.transaction-api/pom.properties",
+     "name": "",
+     "groupId": "jakarta.transaction",
+     "artifactId": "jakarta.transaction-api",
+     "version": "2.0.0"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/jakarta.transaction/jakarta.transaction-api/pom.xml",
+     "parent": {
+      "groupId": "org.eclipse.ee4j",
+      "artifactId": "project",
+      "version": "1.0.6"
+     },
+     "groupId": "jakarta.transaction",
+     "artifactId": "jakarta.transaction-api",
+     "version": "2.0.0",
+     "name": "${extension.name} API",
+     "description": "Jakarta Transactions",
+     "url": "https://projects.eclipse.org/projects/ee4j.jta"
+    }
+   }
+  },
+  {
+   "id": "51a4db0be569f4c",
+   "name": "jakarta.xml.bind-api",
+   "version": "3.0.1",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.xml.bind-api:jakarta.xml.bind-api:3.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind-api:jakarta.xml.bind_api:3.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind_api:jakarta.xml.bind-api:3.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind_api:jakarta.xml.bind_api:3.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind:jakarta.xml.bind-api:3.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind:jakarta.xml.bind_api:3.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/jakarta.xml.bind-api/jakarta.xml.bind-api@3.0.1",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jakarta.xml.bind-api",
+    "pomProperties": {
+     "path": "META-INF/maven/jakarta.xml.bind/jakarta.xml.bind-api/pom.properties",
+     "name": "",
+     "groupId": "jakarta.xml.bind",
+     "artifactId": "jakarta.xml.bind-api",
+     "version": "3.0.1"
+    }
+   }
+  },
+  {
+   "id": "81eeba619a208499",
+   "name": "jandex",
+   "version": "2.4.2.Final",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jandex:jandex:2.4.2.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss:jandex:2.4.2.Final:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.jboss/jandex@2.4.2.Final",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jandex",
+    "pomProperties": {
+     "path": "META-INF/maven/org.jboss/jandex/pom.properties",
+     "name": "",
+     "groupId": "org.jboss",
+     "artifactId": "jandex",
+     "version": "2.4.2.Final"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/org.jboss/jandex/pom.xml",
+     "parent": {
+      "groupId": "org.jboss",
+      "artifactId": "jboss-parent",
+      "version": "12"
+     },
+     "groupId": "org.jboss",
+     "artifactId": "jandex",
+     "version": "2.4.2.Final",
+     "name": "Java Annotation Indexer"
+    }
+   }
+  },
+  {
+   "id": "63c94b88286520b2",
+   "name": "javalin",
+   "version": "5.4.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:javalin:javalin:5.4.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/io.javalin/javalin@5.4.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:javalin",
+    "pomProperties": {
+     "path": "META-INF/maven/io.javalin/javalin/pom.properties",
+     "name": "",
+     "groupId": "io.javalin",
+     "artifactId": "javalin",
+     "version": "5.4.2",
+     "extraFields": {
+      "buildTime": "2023-03-06T04\\:46\\:23Z"
+     }
+    }
+   }
+  },
+  {
+   "id": "3f79469761f16de2",
+   "name": "javalin-bundle",
+   "version": "5.4.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:javalin-bundle:javalin-bundle:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin-bundle:javalin_bundle:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin_bundle:javalin-bundle:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin_bundle:javalin_bundle:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin:javalin-bundle:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin:javalin_bundle:5.4.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/io.javalin/javalin-bundle@5.4.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:javalin-bundle",
+    "pomProperties": {
+     "path": "META-INF/maven/io.javalin/javalin-bundle/pom.properties",
+     "name": "",
+     "groupId": "io.javalin",
+     "artifactId": "javalin-bundle",
+     "version": "5.4.2",
+     "extraFields": {
+      "buildTime": "2023-03-06T04\\:49\\:03Z"
+     }
+    }
+   }
+  },
+  {
+   "id": "5157ce0192c9bd69",
+   "name": "javalin-micrometer",
+   "version": "5.4.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:javalin-micrometer:javalin-micrometer:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin-micrometer:javalin_micrometer:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin_micrometer:javalin-micrometer:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin_micrometer:javalin_micrometer:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin:javalin-micrometer:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin:javalin_micrometer:5.4.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/io.javalin/javalin-micrometer@5.4.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:javalin-micrometer",
+    "pomProperties": {
+     "path": "META-INF/maven/io.javalin/javalin-micrometer/pom.properties",
+     "name": "",
+     "groupId": "io.javalin",
+     "artifactId": "javalin-micrometer",
+     "version": "5.4.2",
+     "extraFields": {
+      "buildTime": "2023-03-06T04\\:48\\:42Z"
+     }
+    }
+   }
+  },
+  {
+   "id": "5f2d380b9be64f82",
+   "name": "javalin-testtools",
+   "version": "5.4.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:javalin-testtools:javalin-testtools:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin-testtools:javalin_testtools:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin_testtools:javalin-testtools:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin_testtools:javalin_testtools:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin:javalin-testtools:5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin:javalin_testtools:5.4.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/io.javalin/javalin-testtools@5.4.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:javalin-testtools",
+    "pomProperties": {
+     "path": "META-INF/maven/io.javalin/javalin-testtools/pom.properties",
+     "name": "",
+     "groupId": "io.javalin",
+     "artifactId": "javalin-testtools",
+     "version": "5.4.2",
+     "extraFields": {
+      "buildTime": "2023-03-06T04\\:48\\:19Z"
+     }
+    }
+   }
+  },
+  {
+   "id": "83ca2b24950545df",
+   "name": "javalin_poc",
+   "version": "1.0-SNAPSHOT",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:davidholiday:javalin-poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:davidholiday:javalin_poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin-poc:javalin-poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin-poc:javalin_poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin_poc:javalin-poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin_poc:javalin_poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin:javalin-poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:javalin:javalin_poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:github:javalin-poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:github:javalin_poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:App:javalin-poc:1.0-SNAPSHOT:*:*:*:*:*:*:*",
+    "cpe:2.3:a:App:javalin_poc:1.0-SNAPSHOT:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.github.davidholiday/javalin_poc@1.0-SNAPSHOT",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar",
+    "manifest": {
+     "main": {
+      "Build-Jdk": "11.0.2",
+      "Built-By": "snerd",
+      "Created-By": "Apache Maven 3.6.3",
+      "Main-Class": "com.github.davidholiday.App",
+      "Manifest-Version": "1.0"
+     }
+    },
+    "pomProperties": {
+     "path": "META-INF/maven/com.github.davidholiday/javalin_poc/pom.properties",
+     "name": "",
+     "groupId": "com.github.davidholiday",
+     "artifactId": "javalin_poc",
+     "version": "1.0-SNAPSHOT"
+    },
+    "digest": [
+     {
+      "algorithm": "sha1",
+      "value": "8a63b8da5cc1365f43b5876a2880592b4ab9d49f"
+     }
+    ]
+   }
+  },
+  {
+   "id": "c6f527a165dcba77",
+   "name": "jaxb-core",
+   "version": "3.0.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:glassfish:jaxb-core:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:glassfish:jaxb_core:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb-core:jaxb-core:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb-core:jaxb_core:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb_core:jaxb-core:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb_core:jaxb_core:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:glassfish:jaxb:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb-core:jaxb:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb:jaxb-core:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb:jaxb_core:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb_core:jaxb:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb:jaxb:3.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.glassfish.jaxb/jaxb-core@3.0.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jaxb-core",
+    "pomProperties": {
+     "path": "META-INF/maven/org.glassfish.jaxb/jaxb-core/pom.properties",
+     "name": "",
+     "groupId": "org.glassfish.jaxb",
+     "artifactId": "jaxb-core",
+     "version": "3.0.2"
+    }
+   }
+  },
+  {
+   "id": "8be3d0ffa5451002",
+   "name": "jaxb-runtime",
+   "version": "3.0.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jaxb-runtime:jaxb-runtime:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb-runtime:jaxb_runtime:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb_runtime:jaxb-runtime:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb_runtime:jaxb_runtime:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:glassfish:jaxb-runtime:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:glassfish:jaxb_runtime:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb-runtime:jaxb:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb:jaxb-runtime:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb:jaxb_runtime:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb_runtime:jaxb:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:glassfish:jaxb:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb:jaxb:3.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.glassfish.jaxb/jaxb-runtime@3.0.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jaxb-runtime",
+    "pomProperties": {
+     "path": "META-INF/maven/org.glassfish.jaxb/jaxb-runtime/pom.properties",
+     "name": "",
+     "groupId": "org.glassfish.jaxb",
+     "artifactId": "jaxb-runtime",
+     "version": "3.0.2"
+    }
+   }
+  },
+  {
+   "id": "bc3d15791be982ff",
+   "name": "jboss-logging",
+   "version": "3.4.3.Final",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jboss-logging:jboss-logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss-logging:jboss_logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss_logging:jboss-logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss_logging:jboss_logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss-logging:logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss_logging:logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logging:jboss-logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logging:jboss_logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss:jboss-logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss:jboss_logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logging:logging:3.4.3.Final:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jboss:logging:3.4.3.Final:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.jboss.logging/jboss-logging@3.4.3.Final",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jboss-logging",
+    "pomProperties": {
+     "path": "META-INF/maven/org.jboss.logging/jboss-logging/pom.properties",
+     "name": "",
+     "groupId": "org.jboss.logging",
+     "artifactId": "jboss-logging",
+     "version": "3.4.3.Final"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/org.jboss.logging/jboss-logging/pom.xml",
+     "parent": {
+      "groupId": "org.jboss",
+      "artifactId": "jboss-parent",
+      "version": "39"
+     },
+     "groupId": "org.jboss.logging",
+     "artifactId": "jboss-logging",
+     "version": "3.4.3.Final",
+     "name": "JBoss Logging 3",
+     "description": "The JBoss Logging Framework",
+     "url": "http://www.jboss.org"
+    }
+   }
+  },
+  {
+   "id": "e226cfc0bb7439a6",
+   "name": "jetty-alpn-conscrypt-server",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-alpn-conscrypt-server:jetty-alpn-conscrypt-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn-conscrypt-server:jetty_alpn_conscrypt_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_conscrypt_server:jetty-alpn-conscrypt-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_conscrypt_server:jetty_alpn_conscrypt_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn-conscrypt:jetty-alpn-conscrypt-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn-conscrypt:jetty_alpn_conscrypt_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_conscrypt:jetty-alpn-conscrypt-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_conscrypt:jetty_alpn_conscrypt_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn:jetty-alpn-conscrypt-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn:jetty_alpn_conscrypt_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn:jetty-alpn-conscrypt-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn:jetty_alpn_conscrypt_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-alpn-conscrypt-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_alpn_conscrypt_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn-conscrypt-server:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-alpn-conscrypt-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_alpn_conscrypt_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_conscrypt_server:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn-conscrypt:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_conscrypt:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-alpn-conscrypt-server@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-alpn-conscrypt-server",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-alpn-conscrypt-server/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-alpn-conscrypt-server",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "5bbc99d5ce2bb21b",
+   "name": "jetty-alpn-server",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-alpn-server:jetty-alpn-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn-server:jetty_alpn_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_server:jetty-alpn-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_server:jetty_alpn_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn:jetty-alpn-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn:jetty_alpn_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn:jetty-alpn-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn:jetty_alpn_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-alpn-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_alpn_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn-server:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-alpn-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_alpn_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn_server:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-alpn:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_alpn:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-alpn-server@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-alpn-server",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-alpn-server/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-alpn-server",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "806deb29b72cf687",
+   "name": "jetty-annotations",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-annotations:jetty-annotations:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-annotations:jetty_annotations:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_annotations:jetty-annotations:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_annotations:jetty_annotations:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-annotations:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_annotations:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-annotations:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-annotations:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_annotations:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_annotations:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-annotations@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-annotations",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-annotations/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-annotations",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "b51cbaaadf9f3cf1",
+   "name": "jetty-http",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-http:jetty-http:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-http:jetty_http:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_http:jetty-http:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_http:jetty_http:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-http:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_http:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-http:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-http:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_http:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_http:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-http@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-http",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-http/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-http",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "4b4e3f374959328d",
+   "name": "jetty-io",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-io:jetty-io:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-io:jetty_io:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_io:jetty-io:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_io:jetty_io:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-io:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_io:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-io:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-io:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_io:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_io:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-io@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-io",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-io/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-io",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "46629a1b873548c0",
+   "name": "jetty-jndi",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-jndi:jetty-jndi:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-jndi:jetty_jndi:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_jndi:jetty-jndi:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_jndi:jetty_jndi:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-jndi:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_jndi:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-jndi:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-jndi:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_jndi:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_jndi:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-jndi@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-jndi",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-jndi/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-jndi",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "a4eb5ca98695f8ad",
+   "name": "jetty-plus",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-plus:jetty-plus:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-plus:jetty_plus:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_plus:jetty-plus:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_plus:jetty_plus:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-plus:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_plus:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-plus:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-plus:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_plus:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_plus:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-plus@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-plus",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-plus/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-plus",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "13c42a5645b3e674",
+   "name": "jetty-security",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-security:jetty-security:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-security:jetty_security:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_security:jetty-security:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_security:jetty_security:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-security:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_security:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-security:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-security:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_security:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_security:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-security@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-security",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-security/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-security",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "aa94d04f89eddbe6",
+   "name": "jetty-server",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-server:jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-server:jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_server:jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_server:jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-server:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_server:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-server@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-server",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-server/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-server",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "bd28d8b3555c48f9",
+   "name": "jetty-servlet",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-servlet:jetty-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-servlet:jetty_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_servlet:jetty-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_servlet:jetty_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-servlet:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_servlet:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-servlet@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-servlet",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-servlet/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-servlet",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "126f46421683c633",
+   "name": "jetty-util",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-util:jetty-util:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-util:jetty_util:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_util:jetty-util:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_util:jetty_util:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-util:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_util:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-util:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-util:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_util:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_util:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-util@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-util",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-util/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-util",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "c4c20ddee9849ef3",
+   "name": "jetty-webapp",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-webapp:jetty-webapp:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-webapp:jetty_webapp:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_webapp:jetty-webapp:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_webapp:jetty_webapp:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-webapp:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_webapp:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-webapp:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-webapp:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_webapp:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_webapp:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-webapp@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-webapp",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-webapp/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-webapp",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "61902179ccb6cc6",
+   "name": "jetty-xml",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jetty-xml:jetty-xml:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-xml:jetty_xml:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_xml:jetty-xml:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_xml:jetty_xml:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty-xml:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty_xml:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty-xml:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty-xml:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty_xml:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty_xml:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:jetty:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:jetty:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty/jetty-xml@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jetty-xml",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty/jetty-xml/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty",
+     "artifactId": "jetty-xml",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "3ea10089ce774fa3",
+   "name": "jvmbrotli",
+   "version": "0.2.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jvmbrotli:jvmbrotli:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:nixxcode:jvmbrotli:0.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.nixxcode.jvmbrotli/jvmbrotli@0.2.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jvmbrotli",
+    "pomProperties": {
+     "path": "META-INF/maven/com.nixxcode.jvmbrotli/jvmbrotli/pom.properties",
+     "name": "",
+     "groupId": "com.nixxcode.jvmbrotli",
+     "artifactId": "jvmbrotli",
+     "version": "0.2.0"
+    }
+   }
+  },
+  {
+   "id": "9de9eb1c6734ee53",
+   "name": "jvmbrotli-linux-x86-amd64",
+   "version": "0.2.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jvmbrotli-linux-x86-amd64:jvmbrotli-linux-x86-amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli-linux-x86-amd64:jvmbrotli_linux_x86_amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux_x86_amd64:jvmbrotli-linux-x86-amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux_x86_amd64:jvmbrotli_linux_x86_amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli-linux-x86:jvmbrotli-linux-x86-amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli-linux-x86:jvmbrotli_linux_x86_amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux_x86:jvmbrotli-linux-x86-amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux_x86:jvmbrotli_linux_x86_amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli-linux:jvmbrotli-linux-x86-amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli-linux:jvmbrotli_linux_x86_amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux:jvmbrotli-linux-x86-amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux:jvmbrotli_linux_x86_amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli-linux-x86-amd64:jvmbrotli:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli:jvmbrotli-linux-x86-amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli:jvmbrotli_linux_x86_amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux_x86_amd64:jvmbrotli:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:nixxcode:jvmbrotli-linux-x86-amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:nixxcode:jvmbrotli_linux_x86_amd64:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli-linux-x86:jvmbrotli:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux_x86:jvmbrotli:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli-linux:jvmbrotli:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli_linux:jvmbrotli:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jvmbrotli:jvmbrotli:0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:nixxcode:jvmbrotli:0.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/com.nixxcode.jvmbrotli/jvmbrotli-linux-x86-amd64@0.2.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:jvmbrotli-linux-x86-amd64",
+    "pomProperties": {
+     "path": "META-INF/maven/com.nixxcode.jvmbrotli/jvmbrotli-linux-x86-amd64/pom.properties",
+     "name": "",
+     "groupId": "com.nixxcode.jvmbrotli",
+     "artifactId": "jvmbrotli-linux-x86-amd64",
+     "version": "0.2.0"
+    }
+   }
+  },
+  {
+   "id": "8406c965de776081",
+   "name": "logback-classic",
+   "version": "1.4.5",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:logback-classic:logback-classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback-classic:logback_classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback_classic:logback-classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback_classic:logback_classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback:logback-classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback:logback_classic:1.4.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/logback-classic/logback-classic@1.4.5",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:logback-classic",
+    "pomProperties": {
+     "path": "META-INF/maven/ch.qos.logback/logback-classic/pom.properties",
+     "name": "",
+     "groupId": "ch.qos.logback",
+     "artifactId": "logback-classic",
+     "version": "1.4.5"
+    }
+   }
+  },
+  {
+   "id": "151da190a94a3dfa",
+   "name": "logback-core",
+   "version": "1.4.5",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:logback-core:logback-core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback-core:logback_core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback_core:logback-core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback_core:logback_core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback:logback-core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback:logback_core:1.4.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/logback-core/logback-core@1.4.5",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:logback-core",
+    "pomProperties": {
+     "path": "META-INF/maven/ch.qos.logback/logback-core/pom.properties",
+     "name": "",
+     "groupId": "ch.qos.logback",
+     "artifactId": "logback-core",
+     "version": "1.4.5"
+    }
+   }
+  },
+  {
+   "id": "8c5f350c0e85cd22",
+   "name": "slf4j-api",
+   "version": "2.0.6",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:slf4j-api:slf4j-api:2.0.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j-api:slf4j_api:2.0.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j_api:slf4j-api:2.0.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j_api:slf4j_api:2.0.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j:slf4j-api:2.0.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j:slf4j_api:2.0.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.slf4j/slf4j-api@2.0.6",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:slf4j-api",
+    "pomProperties": {
+     "path": "META-INF/maven/org.slf4j/slf4j-api/pom.properties",
+     "name": "",
+     "groupId": "org.slf4j",
+     "artifactId": "slf4j-api",
+     "version": "2.0.6"
+    }
+   }
+  },
+  {
+   "id": "fe77f4e5ef25cce8",
+   "name": "sqlite-jdbc",
+   "version": "3.41.0.0",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:sqlite-jdbc:sqlite-jdbc:3.41.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sqlite-jdbc:sqlite_jdbc:3.41.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sqlite_jdbc:sqlite-jdbc:3.41.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sqlite_jdbc:sqlite_jdbc:3.41.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sqlite:sqlite-jdbc:3.41.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sqlite:sqlite_jdbc:3.41.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:xerial:sqlite-jdbc:3.41.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:xerial:sqlite_jdbc:3.41.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.xerial/sqlite-jdbc@3.41.0.0",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:sqlite-jdbc",
+    "pomProperties": {
+     "path": "META-INF/maven/org.xerial/sqlite-jdbc/pom.properties",
+     "name": "",
+     "groupId": "org.xerial",
+     "artifactId": "sqlite-jdbc",
+     "version": "3.41.0.0"
+    },
+    "pomProject": {
+     "path": "META-INF/maven/org.xerial/sqlite-jdbc/pom.xml",
+     "groupId": "org.xerial",
+     "artifactId": "sqlite-jdbc",
+     "version": "3.41.0.0",
+     "name": "SQLite JDBC",
+     "description": "SQLite JDBC library",
+     "url": "https://github.com/xerial/sqlite-jdbc"
+    }
+   }
+  },
+  {
+   "id": "9f89020e2a2952d5",
+   "name": "txw2",
+   "version": "3.0.2",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:glassfish:txw2:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jaxb:txw2:3.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:txw2:txw2:3.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.glassfish.jaxb/txw2@3.0.2",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:txw2",
+    "pomProperties": {
+     "path": "META-INF/maven/org.glassfish.jaxb/txw2/pom.properties",
+     "name": "",
+     "groupId": "org.glassfish.jaxb",
+     "artifactId": "txw2",
+     "version": "3.0.2"
+    }
+   }
+  },
+  {
+   "id": "178d969b25c887b6",
+   "name": "websocket-core-common",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:websocket-core-common:websocket-core-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core-common:websocket_core_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core_common:websocket-core-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core_common:websocket_core_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core:websocket-core-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core:websocket_core_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core:websocket-core-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core:websocket_core_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core-common:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket-core-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket_core_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core_common:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket-core-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket_core_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket-core-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket_core_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.websocket/websocket-core-common@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:websocket-core-common",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.websocket/websocket-core-common/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.websocket",
+     "artifactId": "websocket-core-common",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "71ab76c5bfd34341",
+   "name": "websocket-core-server",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:websocket-core-server:websocket-core-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core-server:websocket_core_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core_server:websocket-core-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core_server:websocket_core_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core:websocket-core-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core:websocket_core_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core:websocket-core-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core:websocket_core_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core-server:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket-core-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket_core_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core_server:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket-core-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket_core_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket-core-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket_core_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-core:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_core:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.websocket/websocket-core-server@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:websocket-core-server",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.websocket/websocket-core-server/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.websocket",
+     "artifactId": "websocket-core-server",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "8397315f2fa9f335",
+   "name": "websocket-jetty-api",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:websocket-jetty-api:websocket-jetty-api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty-api:websocket_jetty_api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_api:websocket-jetty-api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_api:websocket_jetty_api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket-jetty-api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket_jetty_api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket-jetty-api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket_jetty_api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty-api:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket-jetty-api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket_jetty_api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_api:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket-jetty-api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket_jetty_api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket-jetty-api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket_jetty_api:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-api@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:websocket-jetty-api",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.websocket/websocket-jetty-api/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.websocket",
+     "artifactId": "websocket-jetty-api",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "5b653d63a74893ee",
+   "name": "websocket-jetty-common",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:websocket-jetty-common:websocket-jetty-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty-common:websocket_jetty_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_common:websocket-jetty-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_common:websocket_jetty_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket-jetty-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket_jetty_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket-jetty-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket_jetty_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty-common:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket-jetty-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket_jetty_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_common:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket-jetty-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket_jetty_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket-jetty-common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket_jetty_common:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-common@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:websocket-jetty-common",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.websocket/websocket-jetty-common/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.websocket",
+     "artifactId": "websocket-jetty-common",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "e50ee9def28a1c24",
+   "name": "websocket-jetty-server",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:websocket-jetty-server:websocket-jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty-server:websocket_jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_server:websocket-jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_server:websocket_jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket-jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket_jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket-jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket_jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty-server:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket-jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket_jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty_server:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket-jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket_jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket-jetty-server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket_jetty_server:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-jetty:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_jetty:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.websocket/websocket-jetty-server@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:websocket-jetty-server",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.websocket/websocket-jetty-server/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.websocket",
+     "artifactId": "websocket-jetty-server",
+     "version": "11.0.14"
+    }
+   }
+  },
+  {
+   "id": "103b4b59e1e2639",
+   "name": "websocket-servlet",
+   "version": "11.0.14",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:websocket-servlet:websocket-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-servlet:websocket_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_servlet:websocket-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_servlet:websocket_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket-servlet:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket_servlet:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket-servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket_servlet:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:websocket:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:eclipse:websocket:11.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jetty:websocket:11.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.14",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "/home/snerd/patchfox_git/javalin_poc/target/javalin_poc-1.0-SNAPSHOT.jar:websocket-servlet",
+    "pomProperties": {
+     "path": "META-INF/maven/org.eclipse.jetty.websocket/websocket-servlet/pom.properties",
+     "name": "",
+     "groupId": "org.eclipse.jetty.websocket",
+     "artifactId": "websocket-servlet",
+     "version": "11.0.14"
+    }
+   }
+  }
+ ],
+ "artifactRelationships": [
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "103b4b59e1e2639",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "126f46421683c633",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "13c42a5645b3e674",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "13fdf9fb0c31c8c6",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "151da190a94a3dfa",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "178d969b25c887b6",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "2e0d4d80e460a031",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "31d0fa5e53a47c15",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "321b30350b055130",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "3519d86fe9451121",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "39464a12991bd31",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "3981f107a628b196",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "3dfc69f0306252a8",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "3ea10089ce774fa3",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "3f79469761f16de2",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "43c3d6e5c782e7d8",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "45123276f8f0db1e",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "46629a1b873548c0",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "467b929bb7a9c155",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "4b4e3f374959328d",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "5157ce0192c9bd69",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "51a4db0be569f4c",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "5b653d63a74893ee",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "5bbc99d5ce2bb21b",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "5f2d380b9be64f82",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "61902179ccb6cc6",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "63b8c6566f53d450",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "63c94b88286520b2",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "6ded354ffbfb9a8d",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "6e3b1a311cf4c694",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "7074c8810cf09d8e",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "71ab76c5bfd34341",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "741ded04692ae329",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "79e488b739e91c53",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "7b3a3a06ead81cf0",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "7d453f5bef40efd5",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "806deb29b72cf687",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "81eeba619a208499",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "8397315f2fa9f335",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "83ca2b24950545df",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "8406c965de776081",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "87af8a28fbf66f6d",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "8be3d0ffa5451002",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "8c5f350c0e85cd22",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "8fe43e1083896af1",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "9de9eb1c6734ee53",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "9f89020e2a2952d5",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "a0539047555730d8",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "a4eb5ca98695f8ad",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "aa94d04f89eddbe6",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "b51cbaaadf9f3cf1",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "bc3d15791be982ff",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "bd28d8b3555c48f9",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "c2b030b9659eff32",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "c349ff877a3cbc8d",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "c4c20ddee9849ef3",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "c6f527a165dcba77",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "c70d4f93dd9f13c3",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "d3da2cab6801352f",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "d7110175d8002783",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "e226cfc0bb7439a6",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "e50ee9def28a1c24",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "f00e730a01d9845d",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "f66715e98d08f717",
+   "type": "contains"
+  },
+  {
+   "parent": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+   "child": "fe77f4e5ef25cce8",
+   "type": "contains"
+  }
+ ],
+ "source": {
+  "id": "c8330b7c397a919ce83bd3fbb393d9c040b2a494a6251d2f706633fa27ccd837",
+  "type": "file",
+  "target": "target/javalin_poc-1.0-SNAPSHOT.jar"
+ },
+ "distro": {},
+ "descriptor": {
+  "name": "syft",
+  "version": "0.64.0",
+  "configuration": {
+   "configPath": "",
+   "verbosity": 0,
+   "quiet": false,
+   "output": [
+    "json"
+   ],
+   "output-template-path": "",
+   "file": "",
+   "check-for-app-update": true,
+   "dev": {
+    "profile-cpu": false,
+    "profile-mem": false
+   },
+   "log": {
+    "structured": false,
+    "level": "warn",
+    "file-location": ""
+   },
+   "catalogers": null,
+   "package": {
+    "cataloger": {
+     "enabled": true,
+     "scope": "Squashed"
+    },
+    "search-unindexed-archives": false,
+    "search-indexed-archives": true
+   },
+   "file-metadata": {
+    "cataloger": {
+     "enabled": false,
+     "scope": "Squashed"
+    },
+    "digests": [
+     "sha256"
+    ]
+   },
+   "file-classification": {
+    "cataloger": {
+     "enabled": false,
+     "scope": "Squashed"
+    }
+   },
+   "file-contents": {
+    "cataloger": {
+     "enabled": false,
+     "scope": "Squashed"
+    },
+    "skip-files-above-size": 1048576,
+    "globs": []
+   },
+   "secrets": {
+    "cataloger": {
+     "enabled": false,
+     "scope": "AllLayers"
+    },
+    "additional-patterns": {},
+    "exclude-pattern-names": [],
+    "reveal-values": false,
+    "skip-files-above-size": 1048576
+   },
+   "registry": {
+    "insecure-skip-tls-verify": false,
+    "insecure-use-http": false,
+    "auth": []
+   },
+   "exclude": [],
+   "attest": {
+    "key": "",
+    "cert": "",
+    "noUpload": false,
+    "force": false,
+    "recursive": false,
+    "replace": false,
+    "fulcioUrl": "https://fulcio.sigstore.dev",
+    "fulcio_identity_token": "",
+    "insecure_skip_verify": false,
+    "rekorUrl": "https://rekor.sigstore.dev",
+    "oidcIssuer": "https://oauth2.sigstore.dev/auth",
+    "oidcClientId": "sigstore",
+    "OIDCRedirectURL": ""
+   },
+   "platform": "",
+   "name": ""
+  }
+ },
+ "schema": {
+  "version": "6.0.0",
+  "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-6.0.0.json"
+ }
+}
